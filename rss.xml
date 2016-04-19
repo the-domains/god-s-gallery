@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[God's Gallery]]></title>
         <description><![CDATA[God's Gallery]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/god-s-gallery/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 19 Apr 2016 00:54:43 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 19 Apr 2016 01:05:18 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/god-s-gallery/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[God's Gallery]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4b0522a2-bf27-4d97-bcad-599faaa22b18.jpg">]]></description>
+            <link>https://thegrid.ai/god-s-gallery/gods-gallery/index.html</link>
+            <guid isPermaLink="false">258c60db-e6eb-4b5a-8811-65a161f19435</guid>
+            <pubDate>Tue, 19 Apr 2016 01:04:31 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p></p>]]></description>
-            <link>undefined00598f05-e306-4ade-819f-72d9d68496ad/index.html</link>
+            <link>https://thegrid.ai/god-s-gallery/00598f05-e306-4ade-819f-72d9d68496ad/index.html</link>
             <guid isPermaLink="false">00598f05-e306-4ade-819f-72d9d68496ad</guid>
             <pubDate>Tue, 19 Apr 2016 00:54:00 GMT</pubDate>
         </item>
